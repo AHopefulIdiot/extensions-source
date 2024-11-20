@@ -13,7 +13,7 @@
                 <category android:name="android.intent.category.BROWSABLE" />
 
                 <data
-                    android:host="likemanga.io"
+                    android:host="likemanga.ink"
                     android:pathPattern="/..*"
                     android:scheme="https" />
             </intent-filter>
